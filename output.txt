@@ -1,0 +1,5 @@
+1..1
+ok 1 test Happy Kent ID (uid:77d377f0-23ea-4127-a4db-4bfbac516cf7)
+# tests 1
+# pass 1
+# fail 0

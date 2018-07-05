@@ -1,0 +1,13 @@
+---
+- name: Login to the system as pc386
+  uid: 0caeef99-ee85-4773-8535-eb0dc93a36d1
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Go to the Lookups page
+  uid: 4b0ea4d4-71c3-4c09-b410-58f293820b28
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Click the Quick Student Lookup link
+  uid: 82ea92de-8512-45e2-b50e-24f3d1a2d834
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e

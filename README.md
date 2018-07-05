@@ -1,0 +1,1 @@
+Very basic skeleton for hiptest -> travis-CI integration in javascript/mocha using selenium and chrome.

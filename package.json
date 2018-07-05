@@ -1,0 +1,22 @@
+{
+  "name": "hipTestAuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -S --no-timeouts --no-warnings --reporter=tap > output.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chromedriver": "^2.40.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
